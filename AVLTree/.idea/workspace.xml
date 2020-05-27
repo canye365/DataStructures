@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="182f7e7a-5a23-4dab-af27-32ab045b1b48" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="178" column="18" selection-start-line="178" selection-start-column="18" selection-end-line="178" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AVLTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-269">
+              <caret line="277" column="25" selection-start-line="277" selection-start-column="25" selection-end-line="277" selection-end-column="25" />
+              <folding>
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#597#598#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+                <element signature="method#isBST#0;class#AVLTree#0" />
+                <element signature="e#1004#1005#0" expanded="true" />
+                <element signature="e#1043#1044#0" expanded="true" />
+                <element signature="method#isBalanced#1;class#AVLTree#0" />
+                <element signature="method#inOrder#0;class#AVLTree#0" />
+                <element signature="method#getHeight#0;class#AVLTree#0" />
+                <element signature="method#getBalanceFactor#0;class#AVLTree#0" />
+                <element signature="n#!!doc;n#rightRotate#0;n#AVLTree#0" />
+                <element signature="method#rightRotate#0;class#AVLTree#0" />
+                <element signature="method#leftRotate#0;class#AVLTree#0" />
+                <element signature="e#2961#2962#0" expanded="true" />
+                <element signature="e#3005#3006#0" expanded="true" />
+                <element signature="method#getNode#0;class#AVLTree#0" />
+                <element signature="e#4985#4986#0" expanded="true" />
+                <element signature="e#5034#5035#0" expanded="true" />
+                <element signature="method#get#0;class#AVLTree#0" />
+                <element signature="method#set#0;class#AVLTree#0" />
+                <element signature="method#minimum#0;class#AVLTree#0" />
+                <element signature="e#5428#5702#0" />
+                <element signature="method#remove#0;class#AVLTree#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>isB</find>
+      <find>node.height</find>
+      <find>node</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>retNode</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/AVLTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="117" />
+    <option name="y" value="178" />
+    <option name="width" value="1204" />
+    <option name="height" value="883" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AVLTree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AVLTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AVLTree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AVLTree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Desktop/Play-with-Data-Structures-master/12-AVL-Tree/06-LR-and-RL/src/AVLTree.java" />
+    <property name="two.files.diff.last.used.folder" value="$USER_HOME$/Desktop/Play-with-Data-Structures-master/12-AVL-Tree/07-Remove-Elements-in-AVL-Tree/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA\Data-Structures\AVLTree" />
+      <recent name="E:\IDEA\Data-Structures\AVLTree\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA\Data-Structures\AVLTree" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AVLTree">
+    <configuration name="AVLTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AVLTree" />
+      <module name="AVLTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AVLTree" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.AVLTree" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AVLTree" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="182f7e7a-5a23-4dab-af27-32ab045b1b48" name="Default Changelist" comment="" />
+      <created>1563198450318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563198450318</updated>
+      <workItem from="1563198452302" duration="1277000" />
+      <workItem from="1563204288776" duration="5083000" />
+      <workItem from="1563210079088" duration="5114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11474000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1488" height="878" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.112587415" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2811245" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.17582418" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32967034" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32967034" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AVLTree.java</url>
+          <line>46</line>
+          <properties class="AVLTree" method="isBalanced">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pride-and-prejudice.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileOperation.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="178" column="18" selection-start-line="178" selection-start-column="18" selection-end-line="178" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269">
+          <caret line="277" column="25" selection-start-line="277" selection-start-column="25" selection-end-line="277" selection-end-column="25" />
+          <folding>
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="method#isBST#0;class#AVLTree#0" />
+            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="method#isBalanced#1;class#AVLTree#0" />
+            <element signature="method#inOrder#0;class#AVLTree#0" />
+            <element signature="method#getHeight#0;class#AVLTree#0" />
+            <element signature="method#getBalanceFactor#0;class#AVLTree#0" />
+            <element signature="n#!!doc;n#rightRotate#0;n#AVLTree#0" />
+            <element signature="method#rightRotate#0;class#AVLTree#0" />
+            <element signature="method#leftRotate#0;class#AVLTree#0" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3005#3006#0" expanded="true" />
+            <element signature="method#getNode#0;class#AVLTree#0" />
+            <element signature="e#4985#4986#0" expanded="true" />
+            <element signature="e#5034#5035#0" expanded="true" />
+            <element signature="method#get#0;class#AVLTree#0" />
+            <element signature="method#set#0;class#AVLTree#0" />
+            <element signature="method#minimum#0;class#AVLTree#0" />
+            <element signature="e#5428#5702#0" />
+            <element signature="method#remove#0;class#AVLTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
